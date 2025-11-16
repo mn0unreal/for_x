@@ -26,3 +26,5 @@ Install dependencies
 ```sh
 pip install selenium webdriver-manager pandas tqdm openpyxl
 ```
+for run command
+```./run_twitter.sh```
