@@ -1,6 +1,9 @@
 # twitter(x) followers
 <code>./run_twitter.sh </code>
 <img width="1442" height="836" alt="image" src="https://github.com/user-attachments/assets/67fe2cda-d5da-4b7f-9cfc-b8a899a8b6ca" />
+# result
+<img width="1294" height="844" alt="image" src="https://github.com/user-attachments/assets/c540b6ca-6bf8-4763-856c-b4aa9c2b0b5d" />
+
 # for_x
 
 Twitter follower counter (MOMAH Edition)
